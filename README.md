@@ -1,6 +1,8 @@
-# 🧠 Data Science – Dog Aging Project
+Dog Health Prediction
 
 This is a Data Science project based on the [Dog Aging Project](https://github.com/dogagingproject/dataRelease).
+
+![UI Screenshot 1](images/image_3.jpg) 
 
 ## 📁 Repository Structure
 
@@ -9,7 +11,7 @@ This is a Data Science project based on the [Dog Aging Project](https://github.c
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow the steps below to clone the repository and run both the frontend and backend.
 
@@ -79,9 +81,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖼️ UI Preview
-
-![UI Screenshot 1](images/image_3.jpg)  
+## 🖼️ UI Preview 
 ![UI Screenshot 2](images/image_1.jpg)  
 ![UI Screenshot 3](images/image_2.jpg)
 
