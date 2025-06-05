@@ -1,0 +1,13 @@
+Archiv/
+"Data Detectives Canvas_final version.pdf"
+"Predicting health outcomes in dogs using insurance claims data.pdf"
+README_old.md
+README.md
+.DS_Store
+
+# Ignore large files
+Dataset/GeneticData/
+Dataset/SurveyData/
+Dataset/EnvironmentData/
+Common_Code/features/breeds.csv
+Common_Code/features/breed_v2.pkl
