@@ -81,9 +81,9 @@ pip install -r requirements.txt
 
 ## 🖼️ UI Preview
 
-![UI Screenshot 1](images/image_3.png)  
-![UI Screenshot 2](images/image_1.png)  
-![UI Screenshot 3](images/image_2.png)
+![UI Screenshot 1](images/image_3.jpg)  
+![UI Screenshot 2](images/image_1.jpg)  
+![UI Screenshot 3](images/image_2.jpg)
 
 ---
 
