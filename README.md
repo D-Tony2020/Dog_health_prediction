@@ -77,8 +77,6 @@ python app.py
 pip install -r requirements.txt
 ```
 
-> If `requirements.txt` doesn't exist, install them manually based on errors (e.g., Flask, pandas, etc.)
-
 ---
 
 ## 🖼️ UI Preview
