@@ -2,8 +2,6 @@ Dog Health Prediction
 
 This is a Data Science project based on the [Dog Aging Project](https://github.com/dogagingproject/dataRelease).
 
-![UI Screenshot 1](images/image_3.jpg) 
-
 ## 📁 Repository Structure
 
 - `Frontend/` — React-based UI using Vite
@@ -82,6 +80,7 @@ pip install -r requirements.txt
 ---
 
 ## 🖼️ UI Preview 
+![UI Screenshot 1](images/image_3.jpg) 
 ![UI Screenshot 2](images/image_1.jpg)  
 ![UI Screenshot 3](images/image_2.jpg)
 
