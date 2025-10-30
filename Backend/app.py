@@ -336,4 +336,4 @@ def classify_breed(weight):
         return 'Unknown Mix'
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    app.run(port=5050, debug=True)
